@@ -30,4 +30,5 @@ A local AI-powered system for asking questions about PDF documents without using
 - Python 3.8 or higher
 - pip
 
+the link for the app is  : https://webseedertask-vq2abscw6kj3kh4tcodhwm.streamlit.app/
 
